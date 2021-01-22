@@ -1,0 +1,3 @@
+title: "多世界传送"
+transfer-message: "&2你来到了 {w-name} 地图\n&r当前地图有{w-players}位玩家"
+button-message: "&l&e{w-name}"

@@ -1,0 +1,20 @@
+spawn-world: world
+# 是否显示在GUI
+private-worlds: []
+# message-type: 显示类型
+# name: 自定义地图名
+# message: 自定义进入地图信息
+# 想自定义其他世界信息增加世界名即可
+
+
+worlds-name:
+  default:
+    showMessage: true
+    message-type: "title"
+#   framepos: []
+#   name: "生存地图"
+#   message: "进入地图开始生存"
+#
+
+
+

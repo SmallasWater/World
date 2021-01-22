@@ -1,0 +1,19 @@
+name: World
+main: com.smallaswater.world.World
+version: 1.0.4
+api: 1.0.9
+author: 若水
+load: POSTWORLD
+
+commands:
+  w:
+    description: "多世界指令"
+    usage: "/w"
+    permission: World.w
+permissions:
+  World.w:
+    default: true
+    description: "多世界"
+  World.reload:
+    default: op
+    description: "重新加载"
